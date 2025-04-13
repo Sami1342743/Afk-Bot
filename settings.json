@@ -6,8 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": King_of_Bananas-aow2.aternos.me,
+
+   "port": 25565,
     "version": "1.19.3"
   },
 
